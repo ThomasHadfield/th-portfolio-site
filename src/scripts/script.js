@@ -16,7 +16,7 @@ console.log(e);
 const updateTimes = function () {
 
     const output = document.querySelector("output")
-    const now = luxon.DateTime.now().setZone("Europe/Amsterdam")
+    const now = luxon.DateTime.now().setZone("Europe/London")
 
     output.innerHTML = now.toFormat("HH:mm:ss ZZZZ")
 }

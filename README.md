@@ -8,3 +8,7 @@
 
 ### Feb 17, 2026
 - updated experience in bio
+
+### Mar 3, 2026
+- added experiment images
+- updated index/experiment page links

@@ -33,19 +33,31 @@ studioURL:
 </div>
 
 
-<img loading="lazy" src="/assets/images/projects/kollektif/kollektif-byTH-horizontal-image-6.webp" alt="black promo poster">
+<img loading="lazy" src="/assets/images/projects/kollektif/kollektif-byTH-horizontal-image-6.webp" alt="black kollektif t-shirt hanging on open lockeroom door">
 
-<img loading="lazy" src="/assets/images/projects/kollektif/kollektif-byTH-horizontal-image-7.webp" alt="kollektif mailer in clear envelope">
+<img loading="lazy" src="/assets/images/projects/kollektif/kollektif-byTH-horizontal-image-7.webp" alt="black promo poster">
+
+<img loading="lazy" src="/assets/images/projects/kollektif/kollektif-byTH-horizontal-image-8.webp" alt="person holding black kollektif hat in the air with sky background">
 
 
 <div class="two-col">
-    <img loading="lazy" src="/assets/images/projects/kollektif/kollektif-byTH-vertical-image-8.webp" alt="kollektif green tote bag on stool">
-    <img loading="lazy" src="/assets/images/projects/kollektif/kollektif-byTH-vertical-image-9.webp" alt="close up photo of woman, liquid is refracting the image of her face, there is an orange overlay on the photo">
+    <img loading="lazy" src="/assets/images/projects/kollektif/kollektif-byTH-vertical-image-9.webp" alt="kollektif green tote bag on stool">
+    <img loading="lazy" src="/assets/images/projects/kollektif/kollektif-byTH-vertical-image-10.webp" alt="close up photo of woman, liquid is refracting the image of her face, there is an orange overlay on the photo">
 </div>
 
 
-<img loading="lazy" src="/assets/images/projects/kollektif/kollektif-byTH-horizontal-image-10.webp" alt="laptop on desk, showing kollektif brand">
+<img loading="lazy" src="/assets/images/projects/kollektif/kollektif-byTH-horizontal-image-11.webp" alt="kollektif deck slides">
 
-<img loading="lazy" src="/assets/images/projects/kollektif/kollektif-byTH-horizontal-image-11.webp" alt="kollektif tage in black hoodie">
+<img loading="lazy" src="/assets/images/projects/kollektif/kollektif-byTH-horizontal-image-12.webp" alt="kollektif mailer in clear envelope">
 
-<img loading="lazy" src="/assets/images/projects/kollektif/kollektif-byTH-horizontal-image-12.webp" alt="three poster outdoors, showcasing kollektif brand and photogtaphy">
+<img loading="lazy" src="/assets/images/projects/kollektif/kollektif-byTH-horizontal-image-13.webp" alt="kollektif tag in black hoodie">
+
+<img loading="lazy" src="/assets/images/projects/kollektif/kollektif-byTH-horizontal-image-14.webp" alt="three poster outdoors, showcasing kollektif brand and photogtaphy">
+
+<img loading="lazy" src="/assets/images/projects/kollektif/kollektif-byTH-horizontal-image-15.webp" alt="person with dark green kollektif tote back over shoulder">
+
+<img loading="lazy" src="/assets/images/projects/kollektif/kollektif-byTH-horizontal-image-16.webp" alt="woman sitting on stool with back facing camera, back of white shirt reads, london design studio">
+
+<img loading="lazy" src="/assets/images/projects/kollektif/kollektif-byTH-horizontal-image-17.webp" alt="three poster outdoors, showcasing kollektif brand and photogtaphy">
+
+<img loading="lazy" src="/assets/images/projects/kollektif/kollektif-byTH-horizontal-image-18.webp" alt="woman in studio wearing black kollektif crew neck sweater, back facing camera, arms out, kollektif logo on back">

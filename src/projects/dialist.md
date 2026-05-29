@@ -12,9 +12,9 @@ heroImageAlt: dialist logo on lume green backgrund.
 
 # webTXT: Website
 # webURL:
-studioTXT: 'Studio:'
-studioName: Kollektif
-studioURL: https://www.kollektif.ca/
+# studioTXT: 'Studio:'
+# studioName: Kollektif
+# studioURL: https://www.kollektif.ca/
 ---
 
 

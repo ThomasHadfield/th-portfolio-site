@@ -13,8 +13,8 @@ heroImageAlt: black and white of cyclists with website navigation overlayed on t
 
 webTXT: Website
 webURL: https://www.factorstraining.com/
-studioTXT: 'Studio:'
-studioName: Kollektif
+# studioTXT: 'Studio:'
+# studioName: Kollektif
 # studioURL: https://www.kollektif.ca/
 ---
 

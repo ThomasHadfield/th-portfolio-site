@@ -11,45 +11,52 @@ description: Factors is a performance training app for pro athletes and coaches,
 heroImage: /assets/images/projects/factors/factors-byTH-image-hero.webp
 heroImageAlt: black and white of cyclists with website navigation overlayed on top
 
-# webTXT: Website
-# webURL: https://www.factorstraining.com/
-# studioTXT: 'Studio:'
-# studioName: Kollektif
+webTXT: Website
+webURL: https://www.factorstraining.com/
+studioTXT: 'Studio:'
+studioName: Kollektif
 # studioURL: https://www.kollektif.ca/
 ---
 
 
 
-<video loading="lazy" src="/assets/images/projects/factors/factors-byTH-horizontal-video-1.mp4" type="video/mp4" autoplay loop mute></video>
+<img src="/assets/images/projects/factors/factors-byTH-horizontal-image-1.webp" alt="gif of factors logo on images">
 
-<img loading="lazy" src="/assets/images/projects/factors/factors-byTH-horizontal-image-2.png" alt=" ">
+<img loading="lazy" src="/assets/images/projects/factors/factors-byTH-horizontal-image-2.png" alt="Factors logo on black background">
 
-<img loading="lazy" src="/assets/images/projects/factors/factors-byTH-horizontal-image-3.png" alt=" ">
-
-
-<div class="two-col">
-    <img loading="lazy" src="/assets/images/projects/factors/factors-byTH-vertical-image-4.webp" alt="">
-    <img loading="lazy" src="/assets/images/projects/factors/factors-byTH-vertical-image-5.webp" alt="">
-</div>
-
-
-<img loading="lazy" src="/assets/images/projects/factors/factors-byTH-horizontal-image-6.webp" alt=" ">
-
-<img loading="lazy" src="/assets/images/projects/factors/factors-byTH-horizontal-image-7.webp" alt=" ">
+<img loading="lazy" src="/assets/images/projects/factors/factors-byTH-horizontal-image-3.webp" alt="Factors app screen in apple app store">
 
 
 <div class="two-col">
-    <img loading="lazy" src="/assets/images/projects/factors/factors-byTH-vertical-image-8.png" alt="">
-    <img loading="lazy" src="/assets/images/projects/factors/factors-byTH-vertical-image-9.png" alt="">
+    <img loading="lazy" src="/assets/images/projects/factors/factors-byTH-vertical-image-4.webp" alt="factors app on phone screen">
+    <img loading="lazy" src="/assets/images/projects/factors/factors-byTH-vertical-image-5.webp" alt="black and white image of two cyclists, the image has a motion blur as they move by fast.">
 </div>
 
 
-<img loading="lazy" src="/assets/images/projects/factors/factors-byTH-horizontal-image-10.webp" alt=" ">
+<img loading="lazy" src="/assets/images/projects/factors/factors-byTH-horizontal-image-6.webp" alt="factors website shown on a laptop, which is placed on a table">
+
+<img loading="lazy" src="/assets/images/projects/factors/factors-byTH-horizontal-image-7.webp" alt="factors wesbite shown on a phone, which is help in hand">
 
 
 <div class="two-col">
-    <img loading="lazy" src="/assets/images/projects/factors/factors-byTH-vertical-image-11.webp" alt="">
-    <img loading="lazy" src="/assets/images/projects/factors/factors-byTH-vertical-image-12.webp" alt="">
+    <img loading="lazy" src="/assets/images/projects/factors/factors-byTH-vertical-image-8.png" alt="factors.ai graphic">
+    <img loading="lazy" src="/assets/images/projects/factors/factors-byTH-vertical-image-9.png" alt="cards from factors wesbite">
 </div>
 
-<img loading="lazy" src="/assets/images/projects/factors/factors-byTH-horizontal-image-13.webp" alt=" ">
+
+<img loading="lazy" src="/assets/images/projects/factors/factors-byTH-horizontal-image-10.webp" alt="factors poster outside">
+
+<img loading="lazy" src="/assets/images/projects/factors/factors-byTH-horizontal-image-11.webp" alt="factors favicon in broswer">
+
+<img loading="lazy" src="/assets/images/projects/factors/factors-byTH-horizontal-image-12.webp" alt="section of factors website shown in browser">
+
+<img loading="lazy" src="/assets/images/projects/factors/factors-byTH-horizontal-image-13.webp" alt="factors site web page">
+
+
+<div class="two-col">
+    <img loading="lazy" src="/assets/images/projects/factors/factors-byTH-vertical-image-14.webp" alt="cycling data graphic">
+    <img loading="lazy" src="/assets/images/projects/factors/factors-byTH-vertical-image-15.webp" alt="factors logo on the back of a cycling jersey">
+</div>
+
+
+<img loading="lazy" src="/assets/images/projects/factors/factors-byTH-horizontal-image-16.webp" alt="factors logo in pink over black and white image, both the image and logo have motion blur">

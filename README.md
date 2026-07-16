@@ -21,3 +21,6 @@
 
 ### May 13, 2026
 - added full Dialist project
+
+### July 16, 2026
+- added updated factors images

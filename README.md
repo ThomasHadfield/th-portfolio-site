@@ -24,3 +24,4 @@
 
 ### July 16, 2026
 - added updated factors images
+- added medium book project

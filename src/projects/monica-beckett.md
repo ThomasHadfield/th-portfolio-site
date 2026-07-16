@@ -1,6 +1,6 @@
 ---
 
-date: 2025-01-05
+date: 2025-01-10
 
 title: Monica Beckett
 subject: Brand Identity & Website

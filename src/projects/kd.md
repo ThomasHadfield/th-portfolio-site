@@ -1,6 +1,6 @@
 ---
 
-date: 2025-01-01
+date: 2025-01-04
 
 title: KD
 subject: Brand System

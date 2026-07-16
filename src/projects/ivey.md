@@ -1,6 +1,6 @@
 ---
 
-date: 2025-01-08
+date: 2025-01-12
 
 title: Ivey Business School
 subject: Editorial

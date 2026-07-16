@@ -1,6 +1,6 @@
 ---
 
-date: 2025-01-10
+date: 2025-01-14
 
 title: Localcoin
 subject: Brand Identity & Website

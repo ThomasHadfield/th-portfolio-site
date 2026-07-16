@@ -1,6 +1,6 @@
 ---
 
-date: 2025-01-01
+date: 2025-01-03
 
 title: Europe Energy Week – Coming Soon
 subject: Brand Identity

@@ -1,6 +1,6 @@
 ---
 
-date: 2025-01-02
+date: 2025-01-05
 
 title: Factors
 subject: Brand Identity & Website

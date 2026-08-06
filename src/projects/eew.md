@@ -5,7 +5,7 @@ date: 2025-01-03
 title: Europe Energy Week
 subject: Brand Identity
 
-description: Europe Energy Week needed an easy to use logo and brand system that could easily adapt to their current and future events. The exhibition features 500+ global exhibitors and 40,000+ attendees, showcasing the technologies, solutions and expertise supporting the future of Europe’s energy systems. We created a bold logo system that can adapt to different sized mediums and is easily interchangeable for future years. The colour blocking system is informed by the idea of Europe being forward thinking to what is possible with the future of energy.  
+description: Europe Energy Week needed an easy to use logo and brand system that could easily adapt to their current and future events. The exhibition features 500+ global exhibitors and 40,000+ attendees, showcasing the technologies, solutions and expertise supporting the future of Europe’s energy systems. We created a bold logo that can adapt to different sized mediums and is easily interchangeable for future years. The colour blocking system is informed by the idea of Europe being forward thinking in what is possible with the future of energy.  
 
 
 

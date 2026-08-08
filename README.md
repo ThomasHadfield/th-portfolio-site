@@ -25,3 +25,9 @@
 ### July 16, 2026
 - added updated factors images
 - added medium book project
+
+### August 06, 2026
+- added EEW case images and write-up
+
+### August 08, 2026
+- Added AV-X case images

@@ -11,7 +11,7 @@ description: Factors is a performance training app for pro athletes and coaches,
 heroImage: /assets/images/projects/factors/factors-byTH-image-hero.webp
 heroImageAlt: black and white of cyclists with website navigation overlayed on top
 
-webTXT: Website
+webTXT: Visit Website
 webURL: https://www.factorstraining.com/
 # studioTXT: 'Studio:'
 # studioName: Kollektif

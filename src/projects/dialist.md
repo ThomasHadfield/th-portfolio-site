@@ -5,7 +5,7 @@ date: 2025-01-01
 title: Dialist
 subject: Brand Identity
 
-description: Dialist is a luxury watch marketplace. Being a new company they wanted their brand to look and feel trustworty, while still looking highend. We looked at familiar colours, shapes, and typefaces that already existed in the security, transaction, and watch worlds. This helped define the brand. The visual language of luxury meets security tech is where Dialist landed. Creating a sophistcated, yet approachable brand system.
+description: Dialist is a luxury watch marketplace. Being a new company they wanted their brand to look and feel trustworthy, while still looking high-end. We looked at familiar colours, shapes, and typefaces that already existed in the security, transaction, and watch worlds. This helped us define a unique brand visual language of, luxury meets security-tech.
 
 heroImage: /assets/images/projects/dialist/dialist-byTH-image-hero.webp
 heroImageAlt: dialist logo on lume green backgrund.
@@ -18,7 +18,8 @@ heroImageAlt: dialist logo on lume green backgrund.
 ---
 
 
-<img loading="lazy" src="/assets/images/projects/dialist/dialist-byTH-horizontal-image-1.webp" alt="dialist logo on lume green background">
+<img loading="lazy" src="/assets/images/projects/dialist/dialist-byTH-horizontal-image-1.gif" alt="animated dialist logo on lume green background">
+
 
 <img loading="lazy" src="/assets/images/projects/dialist/dialist-byTH-horizontal-image-2.webp" alt="business cards for Dialist on black background">
 

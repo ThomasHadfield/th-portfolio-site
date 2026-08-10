@@ -1,6 +1,6 @@
 ---
 
-date: 2025-01-01
+date: 2025-01-02
 
 title: Dialist
 subject: Brand Identity

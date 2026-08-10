@@ -1,6 +1,6 @@
 ---
 
-date: 2025-01-06
+date: 2025-01-09
 
 title: Scotiabank
 subject: Brand System

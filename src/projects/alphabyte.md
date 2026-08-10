@@ -1,6 +1,6 @@
 ---
 
-date: 2025-01-11
+date: 2025-01-12
 
 title: Alphabyte
 subject: Brand Identity & Website
